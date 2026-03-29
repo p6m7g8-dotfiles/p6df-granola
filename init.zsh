@@ -28,5 +28,8 @@ p6df::modules::granola::mcp() {
 
   p6_js_npm_global_install "granola-mcp-plus"
 
+  p6df::modules::anthropic::mcp::server::add "granola" "npx" "-y" "granola-mcp-plus"
+  p6df::modules::openai::mcp::server::add "granola" "npx" "-y" "granola-mcp-plus"
+
   p6_return_void
 }
