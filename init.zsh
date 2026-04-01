@@ -47,5 +47,5 @@ p6df::modules::granola::mcp() {
 ######################################################################
 p6df::modules::granola::profile::mod() {
 
-  p6_return_words 'granola' '$GRANOLA_API_KEY'
+  p6_return_words 'granola' "$"
 }
