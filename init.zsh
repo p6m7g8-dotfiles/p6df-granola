@@ -37,10 +37,10 @@ p6df::modules::granola::mcp() {
 ######################################################################
 #<
 #
-# Function: words granola $GRANOLA_API_KEY = p6df::modules::granola::profile::mod()
+# Function: words granola = p6df::modules::granola::profile::mod()
 #
 #  Returns:
-#	words - granola $GRANOLA_API_KEY
+#	words - granola
 #
 #  Environment:	 GRANOLA_API_KEY
 #>

@@ -17,8 +17,7 @@
 
 ## Summary
 
-p6df module for Granola: AI meeting notes app integration via MCP server
-(`granola-mcp-plus` via npm) for AI-driven meeting transcript and notes access.
+TODO: Add a short summary of this module.
 
 ## Contributing
 
@@ -39,6 +38,7 @@ p6df module for Granola: AI meeting notes app integration via MCP server
 - `p6df::modules::granola::deps()`
 - `p6df::modules::granola::mcp()`
   - Synopsis: Installs Granola MCP server
+- `words granola = p6df::modules::granola::profile::mod()`
 
 ## Hierarchy
 
